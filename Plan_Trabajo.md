@@ -112,3 +112,47 @@ Dominar herramientas y técnicas clave para el análisis de datos, aplicando SQL
 
 ---
 
+### 4️⃣ Fase 4: Visualización de Datos
+**Objetivo:** Crear gráficos claros y efectivos para comunicar resultados.
+
+- **Habilidades a desarrollar:**
+  - Diseño de dashboards interactivos con Power BI.
+  - Creación de visualizaciones avanzadas con Python.
+  - Gestión de ramas y commits en Git.
+
+- **Power BI:**
+  - Crear un tablero interactivo con ventas por categoría, vendedor y tiempo.
+  - Añadir filtros dinámicos para explorar diferentes perspectivas.
+  - Visualizar las tendencias a lo largo del tiempo.
+  - Incorporar gráficos que resalten patrones de clientes, efectos de descuentos y calificaciones.
+- **Python:**
+  - Gráficos personalizados para análisis más profundos (heatmaps, scatter plots).
+- **Git:**
+  - Crear la rama `visualizacion-datos`.
+  - Hacer commits después de añadir gráficos o dashboards relevantes.
+  - Abrir un Pull Request para integrar las visualizaciones al proyecto principal.
+
+---
+
+### 5️⃣ Fase 5: Storytelling y Presentación
+**Objetivo:** Contar una historia convincente basada en los datos.
+
+- **Habilidades a desarrollar:**
+  - Storytelling efectivo con datos.
+  - Presentación visual impactante.
+  - Integración de hallazgos en una narrativa clara.
+
+- Definir el hilo conductor: ¿Cuál es el descubrimiento más importante?
+- Estructurar la presentación:
+  1. **Introducción:** Contexto del negocio y el marketplace de Amazon.
+  2. **Metodología:** Proceso de análisis (EDA, herramientas usadas).
+  3. **Insights clave:** Hallazgos importantes.
+  4. **Recomendaciones:** Basadas en los resultados.
+  5. **Conclusión:** Resumen y próximos pasos.
+- Preparar visuales impactantes en Power BI.
+- **Git:**
+  - Crear la rama `storytelling`.
+  - Hacer commits a medida que se elaboran narrativas, visuales y presentaciones.
+  - Abrir Pull Requests para integrar las historias en la rama principal.
+
+---
