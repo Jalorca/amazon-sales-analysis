@@ -34,6 +34,23 @@ pip install -r requirements.txt
    - SQL: dentro del entorno de tu elección (DBeaver, pgAdmin, etc.)
    - Python: `python script_analisis.py`
    - Power BI: abrir el archivo `.pbix`
+
+---
+
+## 🤝 Cómo Contribuir
+
+¡Gracias por tu interés en contribuir a este proyecto! Aquí tienes algunas formas en las que puedes colaborar:
+
+1. **Reportar errores:** Si encuentras algún error, por favor crea un "Issue" en el repositorio.
+2. **Proponer mejoras:** ¿Tienes alguna idea para mejorar el análisis o la visualización? No dudes en abrir un "Pull Request".
+3. **Documentación:** Cualquier aporte para mejorar la claridad del README o del Plan de Trabajo es bienvenido.
+
+### Pasos para contribuir:
+1. Haz un "Fork" de este repositorio.
+2. Crea una rama nueva:  
+   ```bash
+   git checkout -b nombre-de-tu-rama
+
 ---
 
 ### Nota
